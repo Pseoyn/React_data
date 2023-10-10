@@ -1,0 +1,36 @@
+[
+    {
+        "id": 3,
+        "titleE": "Thigh Flex Burger",
+        "titleK": "싸이플렉스버거",
+        "imgUrl": "/img/burger4.png"
+    },
+    {
+        "id": 4,
+        "titleE": "Thigh Burger",
+        "titleK": "싸이버거",
+        "imgUrl": "/img/burger5.png"
+    },
+
+    {
+        "id": 5,
+        "titleE": "Deep Cheese Burger",
+        "titleK": "딥치즈버거",
+        "imgUrl": "/img/burger6.png"
+    },
+
+    {
+        "id": 6,
+        "titleE": "Incredible Burger",
+        "titleK": "인크레더블버거",
+        "imgUrl": "/img/burger7.png"
+    },
+
+    {
+        "id": 7,
+        "titleE": "Unbelievable Burger",
+        "titleK": "언빌리버블버거",
+        "imgUrl": "/img/burger8.png"
+    }
+
+]
