@@ -4,28 +4,57 @@
         "id": 4,
         "titleE": "Thigh Burger",
         "titleK": "싸이버거",
-        "imgUrl": "/img/burger5.png"
+        "imgUrl": "/img/burger5.png",
+        "single" : "단품 증량(g) : 230",
+        "kcal" : "칼로리(kcal) : 594",
+        "mg" : "나트륨(mg) : 1,009(50)",
+        "sacchar" : "당류(g) : 14(14)",
+        "fat" : "포화지방(g) : 8.6(58)",
+        "Protein" : "단백질(g) : 28(50)",
+        "set" : "세트칼로리(kcal) : 723 ~ 1,304"
     },
 
     {
         "id": 5,
         "titleE": "Deep Cheese Burger",
         "titleK": "딥치즈버거",
-        "imgUrl": "/img/burger6.png"
+        "imgUrl": "/img/burger6.png",
+        "single" : "단품 증량(g) : 281",
+        "kcal" : "칼로리(kcal) : 605",
+        "mg" : "나트륨(mg) : 1,195(60)",
+        "sacchar" : "당류(g) : 12(12)",
+        "fat" : "포화지방(g) : 10(67)",
+        "Protein" : "단백질(g) : 42(76)",
+        "set" : "세트칼로리(kcal) : 733 ~ 1,314"
+        
     },
 
     {
         "id": 6,
         "titleE": "Incredible Burger",
         "titleK": "인크레더블버거",
-        "imgUrl": "/img/burger7.png"
+        "imgUrl": "/img/burger7.png",
+        "single" : "단품 증량(g) : 312",
+        "kcal" : "칼로리(kcal) : 749",
+        "mg" : "나트륨(mg) : 1,455(73)",
+        "sacchar" : "당류(g) : 16(16)",
+        "fat" : "포화지방(g) : 8.6(58)",
+        "Protein" : "단백질(g) : 38(70)",
+        "set" : "세트칼로리(kcal) : 877 ~ 1,458"
     },
 
     {
         "id": 7,
         "titleE": "Unbelievable Burger",
         "titleK": "언빌리버블버거",
-        "imgUrl": "/img/burger8.png"
+        "imgUrl": "/img/burger8.png",
+        "single" : "단품 증량(g) : 338",
+        "kcal" : "칼로리(kcal) : 772",
+        "mg" : "나트륨(mg) : 1,514(76)",
+        "sacchar" : "당류(g) : 15(15)",
+        "fat" : "포화지방(g) : 7.9(53)",
+        "Protein" : "단백질(g) : 45(81)",
+        "set" : "세트칼로리(kcal) : 900 ~ 1,481"
     }
 
 ]

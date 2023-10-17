@@ -3,54 +3,108 @@
         "id": 4,
         "titleE": "Fried Thigh Boneless Chicken",
         "titleK": "후라이드싸이순살",
-        "imgUrl": "/img/ch5.png"
+        "imgUrl": "/img/ch5.png",
+        "all" : "총중량(g) : 410",
+        "kcal" : "칼로리(kcal) : 349",
+        "mg" : "나트륨(mg) : 389(19)",
+        "sacchar" : "당류(g) : 0(0)",
+        "fat" : "포화지방(g) : 3.9(26)",
+        "Protein" : "단백질(g) : 22(40)",
+        "set" : "세트칼로리(kcal) : 1,693 ~ 2,129"
     },
 
     {
         "id": 5,
         "titleE": "Soy Garlic Thigh Boneless Chicken",
         "titleK": "간장마늘싸이순살",
-        "imgUrl": "/img/ch6.png"
+        "imgUrl": "/img/ch6.png",
+        "all" : "총중량(g) : 510",
+        "kcal" : "칼로리(kcal) : 283",
+        "mg" : "나트륨(mg) : 488(24)",
+        "sacchar" : "당류(g) : 9(9)",
+        "fat" : "포화지방(g) : 2.4(16)",
+        "Protein" : "단백질(g) : 15(27)",
+        "set" : "세트칼로리(kcal) : 1,705 ~ 2,141"
     },
 
     {
         "id": 6,
         "titleE": "Sweet & Spicy Korean Fried Thigh Boneless Chicken",
         "titleK": "맘스양념싸이순살",
-        "imgUrl": "/img/ch7.png"
+        "imgUrl": "/img/ch7.png",
+        "all" : "총중량(g) : 660",
+        "kcal" : "칼로리(kcal) : 290",
+        "mg" : "나트륨(mg) : 475(24)",
+        "sacchar" : "당류(g) : 12(12)",
+        "fat" : "포화지방(g) : 2.9(19)",
+        "Protein" : "단백질(g) : 15(28)",
+        "set" : "세트칼로리(kcal) : 2,179 ~ 2,615"
     },
 
     {
         "id": 7,
         "titleE": "Honey & Soy Thigh Boneless Chicken with Nurungji",
         "titleK": "꿀간장누룽지싸이순살",
-        "imgUrl": "/img/ch8.png"
+        "imgUrl": "/img/ch8.png",
+        "all" : "총중량(g) : 550",
+        "kcal" : "칼로리(kcal) : 300",
+        "mg" : "나트륨(mg) : 467(23)",
+        "sacchar" : "당류(g) : 8(8)",
+        "fat" : "포화지방(g) : 5.2(34)",
+        "Protein" : "단백질(g) : 20(37)",
+        "set" : "세트칼로리(kcal) : 1,913 ~ 2,348"
     },
 
     {
         "id": 8,
         "titleE": "Garlic Mustard Thigh Boneless Chicken",
         "titleK": "마늘톡겨자싸이순살",
-        "imgUrl": "/img/ch9.png"
+        "imgUrl": "/img/ch9.png",
+        "all" : "총중량(g) : 530",
+        "kcal" : "칼로리(kcal) : 324",
+        "mg" : "나트륨(mg) : 546(27)",
+        "sacchar" : "당류(g) : 10(10)",
+        "fat" : "포화지방(g) : 4.8(32)",
+        "Protein" : "단백질(g) : 21(38)",
+        "set" : "세트칼로리(kcal) : 1,983 ~ 2,418"
     },
 
     {
         "id": 9,
         "titleE": "Cheese Sprinkled Thigh Boneless Chicken",
         "titleK": "치즈뿌치싸이순살(체다)",
-        "imgUrl": "/img/ch10.png"
+        "imgUrl": "/img/ch10.png",
+        "all" : "총중량(g) : 430",
+        "kcal" : "칼로리(kcal) : 418",
+        "mg" : "나트륨(mg) : 614(31)",
+        "sacchar" : "당류(g) : 4(4)",
+        "fat" : "포화지방(g) : 5.8(39)",
+        "Protein" : "단백질(g) : 22(41)",
+        "set" : "세트칼로리(kcal) : 2,060 ~ 2,496"
     },
 
     {
         "id": 10,
         "titleE": "Chicken Gangjung Trio",
         "titleK": "닭강정트리오",
-        "imgUrl": "/img/ch11.png"
+        "imgUrl": "/img/ch11.png",
+        "all" : "총중량(g) : 630",
+        "kcal" : "칼로리(kcal) : 304",
+        "mg" : "나트륨(mg) : 438(22)",
+        "sacchar" : "당류(g) : 11(11)",
+        "fat" : "포화지방(g) : 2.5(17)",
+        "Protein" : "단백질(g) : 10(19)"
     },
     {
         "id": 11,
         "titleE": "Fried Chicken Leg",
         "titleK": "후라이드통다리",
-        "imgUrl": "/img/ch12.png"
+        "imgUrl": "/img/ch12.png",
+        "all" : "총중량(g) : 200",
+        "kcal" : "칼로리(kcal) : 302",
+        "mg" : "나트륨(mg) : 436(22)",
+        "sacchar" : "당류(g) : 1(1)",
+        "fat" : "포화지방(g) : 5.0(33)",
+        "Protein" : "단백질(g) : 21(38)"
     }
 ]
